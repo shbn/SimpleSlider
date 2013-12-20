@@ -1,0 +1,4 @@
+SimpleSlider
+============
+
+Simple responsive slider 
